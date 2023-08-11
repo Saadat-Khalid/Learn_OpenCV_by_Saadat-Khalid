@@ -39,7 +39,7 @@ I welcome contributions to this repository. If you have any code or documentatio
 
 CODANICS is brought to you with inspiration from Dr Aammar's YouTube channel, Codanics. As a dedicated learner, I've drawn insights and knowledge, including Data Science, from Dr Aammar's informative content on coding and development.
 
-Learn Data Science and more from Dr Aammar on his YouTube channel: s[Codanics](https://www.youtube.com/@Codanics)
+Learn Data Science and more from Dr Aammar on his YouTube channel: [Codanics](https://www.youtube.com/@Codanics)
 
 A special thanks to Dr Aammar for sharing his expertise and fostering a learning community through Codanics.
 

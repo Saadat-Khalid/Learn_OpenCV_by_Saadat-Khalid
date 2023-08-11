@@ -35,6 +35,16 @@ cv.waitkey(0)
 
 I welcome contributions to this repository. If you have any code or documentation that you would like to share, please feel free to submit a pull request.
 
+## Credits
+
+CODANICS is brought to you with inspiration from Dr Aammar's YouTube channel, Codanics. As a dedicated learner, I've drawn insights and knowledge, including Data Science, from Dr Aammar's informative content on coding and development.
+
+Learn Data Science and more from Dr Aammar on his YouTube channel:
+
+     [Codanics YouTube Channel](https://www.youtube.com/@Codanics)
+
+A special thanks to Dr Aammar for sharing his expertise and fostering a learning community through Codanics.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
